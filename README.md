@@ -130,10 +130,13 @@ Descrição: Este projeto é um sistema de gestão de funcionários desenvolvido
 
 Equipe e Colaboradores:
 
-Argeu do Carmo Russo Neto
-Douglas Daniel Moraes Ferreira
-Pedro Augusto Montes
-Romulo Nogueira de Souza
+Argeu do Carmo Russo Neto,
+
+Douglas Daniel Moraes Ferreira,
+
+Pedro Augusto Montes,
+
+Romulo Nogueira de Souza.
 
 Objetivos do Projeto:
 
