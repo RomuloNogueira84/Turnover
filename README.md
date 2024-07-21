@@ -134,22 +134,32 @@ Argeu do Carmo Russo Neto
 Douglas Daniel Moraes Ferreira
 Pedro Augusto Montes
 Romulo Nogueira de Souza
+
 Objetivos do Projeto:
 
 Registrar, visualizar e editar perfis de funcionários.
 Gerenciar departamentos e controlar a lotação por carga horária.
 Garantir uma interface responsiva e medidas básicas de segurança.
 Implementar autenticação simples para administradores.
+
 Escopo do Projeto:
 
 Registro de Funcionários: Sistema de registro com validação de formulário e armazenamento em banco de dados MySQL/Postgres.
+
 Perfis de Funcionários: Criação, visualização e edição de perfis com informações básicas e histórico de lotação.
+
 Gerenciamento de Departamentos: CRUD para departamentos com informações detalhadas.
+
 Lotação por Carga Horária: Gerenciamento da carga horária e departamento dos funcionários com histórico de mudanças.
+
 Autenticação Simples: Login básico para administradores.
+
 Interface Responsiva: Adaptação a diferentes dispositivos.
+
 Validação de Dados: Garantia da integridade das informações.
+
 Segurança Básica: Proteção contra vulnerabilidades como injeção SQL.
+
 Tecnologias Utilizadas:
 
 HTML5: Estrutura da página.
