@@ -96,6 +96,7 @@ Wireframes e Mockups: Desenvolvemos esboços das interfaces principais.
 ![Imagem do WhatsApp de 2024-07-20 à(s) 00 23 05_8e62e0d5](https://github.com/user-attachments/assets/0a9d53cc-48f4-446c-9b1e-85dcbd9203ac)
 
 **1.1. Momento de entender a dor do mercado para a elaboração do nosso projeto :**
+
 **Debates construtivos: ** Identificamos as dores do mercado buscando as principais necessidades do mercado,se existia lacunas no mercado.Fizemos análise de possiveis competidores e funcionalidades reais.Leemos feedbacks de usuarios e tambem a tendência do setor buscando mecanismos inovadores.
 
 ![Imagem do WhatsApp de 2024-07-20 à(s) 14 50 12_6e0dc62b](https://github.com/user-attachments/assets/40988a2e-6cee-444d-8a0d-3cf6d90780e2)
