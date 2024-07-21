@@ -93,6 +93,9 @@ Em resumo, essa integração nos permitirá criar um sistema completo, desde a i
 Documentação: Criamos no "Excalidraw" um documento de requisitos detalhado.
 Wireframes e Mockups: Desenvolvemos esboços das interfaces principais.
 
+![Imagem do WhatsApp de 2024-07-20 à(s) 00 23 05_8e62e0d5](https://github.com/user-attachments/assets/0a9d53cc-48f4-446c-9b1e-85dcbd9203ac)
+
+
 **2. Configuração do Ambiente de Desenvolvimento**
 **Estrutura de Pastas:** Organize as pastas do projeto de forma lógica:
 
@@ -107,6 +110,8 @@ Wireframes e Mockups: Desenvolvemos esboços das interfaces principais.
 │   │       └── /html
 ├── /test
 └── /database
+
+![Captura de tela 2024-07-21 132904](https://github.com/user-attachments/assets/08b6f637-90ba-4d84-a987-c81ba577c1bc)
 
 
 **Controle de Versão:** Configuramos um repositório Git para o projeto.
