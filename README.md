@@ -59,15 +59,20 @@ departamentos e histórico de lotação.
 **HTML5 (Hypertext Markup Language 5):**
 Integração: O HTML5 é a base da nossa aplicação. Usaremos tags HTML para criar a estrutura da página, como cabeçalhos, parágrafos e formulários.
 Exemplo: Criaremos um formulário de registro de funcionários com campos para nome, e-mail, cargo e departamento.
+
+
 **CSS3 (Cascading Style Sheets 3):**
 Integração: O CSS3 será responsável pelo estilo visual da nossa aplicação.
 Exemplo: Vamos aplicar estilos ao formulário, como cores de fundo, fontes e margens, para torná-lo mais atraente.
+
 **JavaScript:**
 Integração: O JavaScript adicionará interatividade à nossa aplicação.
 Exemplo: Validaremos os campos do formulário em tempo real, exibindo mensagens de erro se algo estiver incorreto.
+
 **Java com Spring Boot:**
 Integração: O Spring Boot nos ajudará a criar a lógica de negócios do sistema.
 Exemplo: Criaremos endpoints REST para cada funcionalidade, como adicionar um novo funcionário ou consultar o histórico de lotação.
+
 **PostgreSQL:**
 Integração: O PostgreSQL será nosso banco de dados para armazenar informações.
 Exemplo: Quando um novo funcionário for registrado, salvaremos seus dados no banco. Também consultaremos o banco para exibir perfis existentes.
@@ -83,9 +88,11 @@ Em resumo, essa integração nos permitirá criar um sistema completo, desde a i
 ## Desenvolvimento e Implementação (Metodologia)
 
 **1. Planejamento e Definição de Requisitos**
+
 **Reunião Inicial:** Definaimos os objetivos do projeto, os requisitos funcionais e não funcionais.
 Documentação: Criamos no "Excalidraw" um documento de requisitos detalhado.
 Wireframes e Mockups: Desenvolvemos esboços das interfaces principais.
+
 **2. Configuração do Ambiente de Desenvolvimento**
 **Estrutura de Pastas:** Organize as pastas do projeto de forma lógica:
 
@@ -103,22 +110,37 @@ Wireframes e Mockups: Desenvolvemos esboços das interfaces principais.
 
 
 **Controle de Versão:** Configuramos um repositório Git para o projeto.
+
 **3. Desenvolvimento Front-end (Neto e Douglas)**
+
 **HTML5 e CSS3:** Criamos as páginas HTML e estilize-as com CSS. Utilize boas práticas de organização de CSS3.
+
 **JavaScript:** Adicione interatividade às páginas com JavaScript.Respeitando o uso do codigo Vanilla Script.
+
 **4. Desenvolvimento Back-end (Pedro e Romulo)**
+
 **Configuração do Spring Boot:** Configure o projeto Spring Boot com as dependências necessárias.
+
 **Modelagem do Banco de Dados:** Definimos no Excalidraw o esquema do banco de dados PostgreSQL.
+
 **Criação de APIs:** Desenvolva as APIs RESTful para comunicação entre o front-end e o back-end.
+
 **5. Integração e Testes**
+
 **Integração Contínua:** Configure pipelines de CI/CD para automação de builds e testes.
+
 **Testes Unitários e de Integração:** Escreva testes para garantir a qualidade do código.
+
 6. Deploy e Monitoramento
-Deploy: Realize o deploy da aplicação em um servidor ou serviço de nuvem.
-Monitoramento: Implemente ferramentas de monitoramento para acompanhar a performance e a saúde da aplicação.
-7. Manutenção e Atualizações
-Feedback e Melhorias: Coletamos feedback dos usuários e implementamos melhorias contínuas.
-Documentação: Mantenhemos a documentação do projeto atualizada.
+**Deploy:** Realize o deploy da aplicação em um servidor ou serviço de nuvem.
+
+**Monitoramento:** Implemente ferramentas de monitoramento para acompanhar a performance e a saúde da aplicação.
+
+8. Manutenção e Atualizações
+**Feedback e Melhorias:** Coletamos feedback dos usuários e implementamos melhorias contínuas.
+
+**Documentação:** Mantenhemos a documentação do projeto atualizada.
+
 
 ## Demonstração:
 Segue o Link:
@@ -128,7 +150,7 @@ https://turnover-kappa.vercel.app/
 Resumo do Projeto Turnover
 Descrição: Este projeto é um sistema de gestão de funcionários desenvolvido em Java com Spring Boot. Ele permite o registro, visualização e edição de perfis de funcionários, gerenciamento de departamentos e lotação por carga horária.
 
-Equipe e Colaboradores:
+**Equipe e Colaboradores:**
 
 Argeu do Carmo Russo Neto,
 
@@ -138,34 +160,37 @@ Pedro Augusto Montes,
 
 Romulo Nogueira de Souza.
 
-Objetivos do Projeto:
+**Objetivos do Projeto:**
 
 Registrar, visualizar e editar perfis de funcionários.
 Gerenciar departamentos e controlar a lotação por carga horária.
 Garantir uma interface responsiva e medidas básicas de segurança.
 Implementar autenticação simples para administradores.
 
-Escopo do Projeto:
+**Escopo do Projeto:**
 
-Registro de Funcionários: Sistema de registro com validação de formulário e armazenamento em banco de dados MySQL/Postgres.
+**Registro de Funcionários:** Sistema de registro com validação de formulário e armazenamento em banco de dados MySQL/Postgres.
 
-Perfis de Funcionários: Criação, visualização e edição de perfis com informações básicas e histórico de lotação.
+**Perfis de Funcionários:** Criação, visualização e edição de perfis com informações básicas e histórico de lotação.
 
-Gerenciamento de Departamentos: CRUD para departamentos com informações detalhadas.
+**Gerenciamento de Departamentos:** CRUD para departamentos com informações detalhadas.
 
-Lotação por Carga Horária: Gerenciamento da carga horária e departamento dos funcionários com histórico de mudanças.
+**Lotação por Carga Horária:** Gerenciamento da carga horária e departamento dos funcionários com histórico de mudanças.
 
-Autenticação Simples: Login básico para administradores.
+**Autenticação Simples:** Login básico para administradores.
 
-Interface Responsiva: Adaptação a diferentes dispositivos.
+**Interface Responsiva:** Adaptação a diferentes dispositivos.
 
-Validação de Dados: Garantia da integridade das informações.
+**Validação de Dados:** Garantia da integridade das informações.
 
-Segurança Básica: Proteção contra vulnerabilidades como injeção SQL.
+**Segurança Básica:** Proteção contra vulnerabilidades como injeção SQL.
 
-Tecnologias Utilizadas:
+**Tecnologias Utilizadas:**
 
-HTML5: Estrutura da página.
-CSS3: Estilo visual.
-JavaScript: Interatividade.
-Java com Spring Boot: Lógica de negócios e endpoints REST.
+**HTML5:** Estrutura da página.
+
+**CSS3:** Estilo visual.
+
+**JavaScript:** Interatividade.
+
+**Java com Spring Boot:** Lógica de negócios e endpoints REST.
