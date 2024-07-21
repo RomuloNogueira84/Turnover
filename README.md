@@ -88,6 +88,7 @@ Documentação: Criamos no "Excalidraw" um documento de requisitos detalhado.
 Wireframes e Mockups: Desenvolvemos esboços das interfaces principais.
 2. Configuração do Ambiente de Desenvolvimento
 Estrutura de Pastas: Organize as pastas do projeto de forma lógica:
+
 /project-root
 ├── /src
 │   ├── /main
@@ -99,6 +100,7 @@ Estrutura de Pastas: Organize as pastas do projeto de forma lógica:
 │   │       └── /html
 ├── /test
 └── /database
+
 
 Controle de Versão: Configuramos um repositório Git para o projeto.
 3. Desenvolvimento Front-end (Neto e Douglas)
