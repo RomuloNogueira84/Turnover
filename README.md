@@ -87,7 +87,7 @@ Em resumo, essa integração nos permitirá criar um sistema completo, desde a i
 
 ## Desenvolvimento e Implementação (Metodologia)
 
-**1. Planejamento e Definição de Requisitos**
+## 1. Planejamento e Definição de Requisitos##
 
 **Reunião Inicial:** Definaimos os objetivos do projeto, os requisitos funcionais e não funcionais.
 Documentação: Criamos no "Excalidraw" um documento de requisitos detalhado.
@@ -97,12 +97,12 @@ Wireframes e Mockups: Desenvolvemos esboços das interfaces principais.
 
 **1.1. Momento de entender a dor do mercado para a elaboração do nosso projeto :**
 
-**Debates construtivos: ** Identificamos as dores do mercado buscando as principais necessidades do mercado,se existia lacunas no mercado.Fizemos análise de possiveis competidores e funcionalidades reais.Leemos feedbacks de usuarios e tambem a tendência do setor buscando mecanismos inovadores.
+**Debates construtivos:** Identificamos as dores do mercado buscando as principais necessidades do mercado,se existia lacunas no mercado.Fizemos análise de possiveis competidores e funcionalidades reais.Leemos feedbacks de usuarios e tambem a tendência do setor buscando mecanismos inovadores.
 
 ![Imagem do WhatsApp de 2024-07-20 à(s) 14 50 12_6e0dc62b](https://github.com/user-attachments/assets/40988a2e-6cee-444d-8a0d-3cf6d90780e2)
 
 
-**2. Configuração do Ambiente de Desenvolvimento**
+## 2. Configuração do Ambiente de Desenvolvimento##
 **Estrutura de Pastas:** Organize as pastas do projeto de forma lógica:
 
 /project-root
@@ -122,13 +122,13 @@ Wireframes e Mockups: Desenvolvemos esboços das interfaces principais.
 
 **Controle de Versão:** Configuramos um repositório Git para o projeto.
 
-**3. Desenvolvimento Front-end (Neto e Douglas)**
+## 3. Desenvolvimento Front-end (Neto e Douglas)##
 
 **HTML5 e CSS3:** Criamos as páginas HTML e estilize-as com CSS. Utilize boas práticas de organização de CSS3.
 
 **JavaScript:** Adicione interatividade às páginas com JavaScript.Respeitando o uso do codigo Vanilla Script.
 
-**4. Desenvolvimento Back-end (Pedro e Romulo)**
+## 4. Desenvolvimento Back-end (Pedro e Romulo)##
 
 **Configuração do Spring Boot:** Configure o projeto Spring Boot com as dependências necessárias.
 
@@ -136,18 +136,18 @@ Wireframes e Mockups: Desenvolvemos esboços das interfaces principais.
 
 **Criação de APIs:** Desenvolva as APIs RESTful para comunicação entre o front-end e o back-end.
 
-**5. Integração e Testes**
+## 5. Integração e Testes##
 
 **Integração Contínua:** Configure pipelines de CI/CD para automação de builds e testes.
 
 **Testes Unitários e de Integração:** Escreva testes para garantir a qualidade do código.
 
-6. Deploy e Monitoramento
+## 6. Deploy e Monitoramento##
 **Deploy:** Realize o deploy da aplicação em um servidor ou serviço de nuvem.
 
 **Monitoramento:** Implemente ferramentas de monitoramento para acompanhar a performance e a saúde da aplicação.
 
-8. Manutenção e Atualizações
+## 8. Manutenção e Atualizações ##
 **Feedback e Melhorias:** Coletamos feedback dos usuários e implementamos melhorias contínuas.
 
 **Documentação:** Mantenhemos a documentação do projeto atualizada.
@@ -161,7 +161,7 @@ https://turnover-kappa.vercel.app/
 Resumo do Projeto Turnover
 Descrição: Este projeto é um sistema de gestão de funcionários desenvolvido em Java com Spring Boot. Ele permite o registro, visualização e edição de perfis de funcionários, gerenciamento de departamentos e lotação por carga horária.
 
-**Equipe e Colaboradores:**
+## Equipe e Colaboradores: ##
 
 Argeu do Carmo Russo Neto,
 
@@ -171,14 +171,14 @@ Pedro Augusto Montes,
 
 Romulo Nogueira de Souza.
 
-**Objetivos do Projeto:**
+##Objetivos do Projeto:##
 
 Registrar, visualizar e editar perfis de funcionários.
 Gerenciar departamentos e controlar a lotação por carga horária.
 Garantir uma interface responsiva e medidas básicas de segurança.
 Implementar autenticação simples para administradores.
 
-**Escopo do Projeto:**
+## Escopo do Projeto:##
 
 **Registro de Funcionários:** Sistema de registro com validação de formulário e armazenamento em banco de dados MySQL/Postgres.
 
