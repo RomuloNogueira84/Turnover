@@ -171,7 +171,7 @@ Pedro Augusto Montes,
 
 Romulo Nogueira de Souza.
 
-##Objetivos do Projeto:##
+## Objetivos do Projeto:
 
 Registrar, visualizar e editar perfis de funcionários.
 Gerenciar departamentos e controlar a lotação por carga horária.
